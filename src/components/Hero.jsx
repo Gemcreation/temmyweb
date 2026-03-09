@@ -7,8 +7,7 @@ const Hero = () => {
         <div className="hero-content">
           <span className="hero-subtitle">PREMIUM BESPOKE TAILORING</span>
           <h1 className="hero-title">
-            The Art of
-            <span className="highlight">Feminine Elegance</span>
+            The Art of <span className="highlight">Feminine Elegance</span>
           </h1>
           <p className="hero-description">
             Experience the pinnacle of premium female bespoke tailoring
