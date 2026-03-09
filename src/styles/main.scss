@@ -243,11 +243,9 @@ ul {
   }
 }
 
-/* =========================================
-   EXPERTISE SECTION
-   ========================================= */
+/* EXPERTISE SECTION */
 .expertise-section {
-  background-color: #0b0b0b;
+  background-color: #755600;
 
   .expertise-header {
     display: flex;
@@ -274,15 +272,15 @@ ul {
   }
 
   .expertise-card {
-    background-color: #111111;
+    background-color: #342601;
     padding: 40px;
-    border-radius: 8px;
+    border-radius: 10px;
     transition: transform 0.3s ease, background-color 0.3s ease;
     border: 1px solid rgba(255, 255, 255, 0.03);
 
     &:hover {
       transform: translateY(-5px);
-      background-color: #151515;
+      background-color: #1d1500;
     }
 
     .icon {
@@ -356,11 +354,9 @@ ul {
   }
 }
 
-/* =========================================
-   GALLERY SECTION
-   ========================================= */
+/* GALLERY SECTION */
 .gallery-section {
-  background-color: #0b0b0b;
+  background-color: #755600;
   text-align: center;
 
   .section-title-wrapper {

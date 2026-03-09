@@ -17,7 +17,7 @@ const Expertise = () => {
         </div>
 
         <div className="expertise-grid">
-          {/* Card 1 */}
+          {/* Card/box 1 */}
           <div className="expertise-card">
             <div className="icon">
               <svg viewBox="0 0 24 24">
@@ -26,7 +26,7 @@ const Expertise = () => {
             </div>
             <h3>Bespoke Gowns</h3>
             <p>
-              Custom-made evening wear and red-carpet masterpieces designed to accentuate your unique silhouette.
+              Custom made evening wear and red-carpet masterpieces designed to accentuate your unique silhouette.
             </p>
             <a href="#collections" className="explore-link">EXPLORE MORE &gt;</a>
           </div>
